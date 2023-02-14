@@ -1,0 +1,15 @@
+{
+  "name": "fridgemagnet",
+  "version": "1.0.0",
+  "description": "adv web screen proj 1",
+  "main": "server.js",
+  "scripts": {
+    "start server": "node server.js"
+  },
+  "author": "ingrid schelzel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
